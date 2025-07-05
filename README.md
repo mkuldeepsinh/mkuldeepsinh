@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Kuldeep!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+kuldeepsinh!;elcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -34,13 +34,15 @@
 
 | 🕰️ **Current Time** | 📈 **Random Tip** | 🎯 **Today's Focus** |
 |:---:|:---:|:---:|
-| **12:12** (UTC) | `Use meaningful variable names` | • Creating reusable components |
+| **12:20** (UTC) | `Use conventional commit messages` | • Refactoring legacy code |
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages
+<div align="center">
+  <h3>💻 Languages</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -48,27 +50,35 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
 </div>
 
-### 🎨 Frontend
+<div align="center">
+  <h3>🎨 Frontend</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
-### ⚙️ Backend
+<div align="center">
+  <h3>⚙️ Backend</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
 </div>
 
-### 🗄️ Database
+<div align="center">
+  <h3>🗄️ Database</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-### 🔧 Version Control & Tools
+<div align="center">
+  <h3>🔧 Version Control & Tools</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -143,30 +153,6 @@
   <a href="https://www.geeksforgeeks.org/user/kuldeepsinh/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-</div>
-
----
-
-## 💡 Fun Facts
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mkuldeepsinh&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mkuldeepsinh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mkuldeepsinh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="WakaTime Weekly Stats" />
 </div>
 
 ---
