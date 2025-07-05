@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+kuldeepsinh!;elcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+kuldeepsinh!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkuldeepsinh&style=flat-square&color=6366F1" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mkuldeepsinh&style=flat-square&color=3B82F6" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active%20Developer-22C55E?style=flat-square&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B5:30-6366F1?style=flat-square&logo=clock" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B5:30-3B82F6?style=flat-square&logo=clock" alt="Timezone" />
 </div>
 
 ---
@@ -17,11 +17,11 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkuldeepsinh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22C55E&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkuldeepsinh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=22C55E&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mkuldeepsinh&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mkuldeepsinh&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -34,7 +34,7 @@
 
 | 🕰️ **Current Time** | 📈 **Random Tip** | 🎯 **Today's Focus** |
 |:---:|:---:|:---:|
-| **12:20** (UTC) | `Use conventional commit messages` | • Refactoring legacy code |
+| **12:26** (UTC) | `Use git commit --amend to rewrite history` | • Writing technical blog posts |
 
 ---
 
@@ -89,40 +89,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkuldeepsinh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkuldeepsinh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="100%">
-        <h3 align="center">🎯 Dynamic README Generator</h3>
-        <p align="center">
-          <a href="https://github.com/mkuldeepsinh/mkuldeepsinh" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkuldeepsinh&repo=mkuldeepsinh&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Dynamic README"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Auto-updating GitHub profile with daily stats, tips, and dynamic content</strong><br/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkuldeepsinh&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=22C55E&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkuldeepsinh&theme=radical&hide_border=true&bg_color=0D1117&color=3B82F6&line=22C55E&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
 ---
